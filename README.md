@@ -8,7 +8,7 @@
 - 🧡 I enjoy talking about UI, UX and Frontend Development.
 - ✍️ I have a [**technical blog**](https://esteetey.dev/) on Web Development & Developer Growth.
 
-### Languages & Tools
+### Languages & Tools 🛠
 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -59,7 +59,7 @@
 
 <!-- <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>  -->
 
-### Latest Articles
+### Latest Articles 🔖
 
 <!-- BLOGPOST:START -->
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
@@ -69,7 +69,7 @@
 - [3 Easy Steps to work on your next side project more effectively](https://esteetey.dev/3-easy-steps-to-work-on-your-next-side-project-more-effectively)
 <!-- BLOGPOST:END -->
 
-### Connect with me
+### Connect with me 💬
 
 <a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/estee-tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estee-tey" height="30" width="40" /></a>
