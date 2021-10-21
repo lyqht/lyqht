@@ -69,7 +69,7 @@
 - [3 Easy Steps to work on your next side project more effectively](https://esteetey.dev/3-easy-steps-to-work-on-your-next-side-project-more-effectively)
 <!-- BLOGPOST:END -->
 
-### 🔻 Connect with me
+### Connect with me
 
 <a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/estee-tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estee-tey" height="30" width="40" /></a>
