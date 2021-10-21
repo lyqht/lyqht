@@ -62,6 +62,11 @@
 ### Latest Articles
 
 <!-- BLOGPOST:START -->
+- [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
+- [The Open Source & Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
+- [Migrating a small non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
+- [Developer insights: Why you should conduct user interviews](https://esteetey.dev/developer-insights-why-you-should-conduct-user-interviews)
+- [3 Easy Steps to work on your next side project more effectively](https://esteetey.dev/3-easy-steps-to-work-on-your-next-side-project-more-effectively)
 <!-- BLOGPOST:END -->
 
 ### 🔻 Connect with me
