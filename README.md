@@ -4,7 +4,7 @@
 
 - 🇸🇬 I'm Estee, a software developer from **Singapore**.
 - 🔭 I’m currently contributing to open-source projects in **Hacktoberfest**.
-- 🌱 I am learning how to be a better Backend Developer at [Thoughtworks](https://www.thoughtworks.com/).
+- 🌱 I am learning how to be a better Backend Developer and thinker at [Thoughtworks](https://www.thoughtworks.com/).
 - 🧡 I enjoy talking about UI, UX and Frontend Development.
 - ✍️ I have a [**technical blog**](https://esteetey.dev/) on Web Development & Developer Growth.
 
