@@ -69,6 +69,13 @@
 - [3 Easy Steps to work on your next side project more effectively](https://esteetey.dev/3-easy-steps-to-work-on-your-next-side-project-more-effectively)
 <!-- BLOGPOST:END -->
 
+### Projects
+
+- 🔫 [Recoil](https://github.com/lyqht/Recoil): A downloadable 2D Platformer Game where Pingu the penguin takes up arms to save his eggy cousin Benedict from the Navy Seal.
+- 🤖 [BuilderBuddy](https://github.com/lyqht/builderbuddy): A HoloLens II Mixed Reality App MVP to teach people how to build Gunpla models remotely
+- 💻 [ISTD Exhibition](https://github.com/lyqht/istd-1d-exhibition-2020): A simple website to showcase hundreds of real projects across 2 courses of Singapore University of Technology and Design.
+- 🤍 [Reminiscene](https://github.com/lyqht/Reminiscence): A simple website to showcase events happening in a school event for White Day.
+
 ### Connect with me 💬
 
 <a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
