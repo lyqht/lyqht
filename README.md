@@ -26,8 +26,8 @@
   <tr>
     <th>Frontend (Web)</th>
     <th>Backend</th>
-    <th>Design</th>
     <th>Mobile</th>
+    <th>Design</th>
   </tr>
   <tr>
     <td>
