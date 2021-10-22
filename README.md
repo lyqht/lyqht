@@ -73,8 +73,8 @@
 
 - 🔫 [Recoil](https://github.com/lyqht/Recoil): A downloadable 2D Platformer Game where Pingu the penguin takes up arms to save his eggy cousin Benedict from the Navy Seal.
 - 🤖 [BuilderBuddy](https://github.com/lyqht/builderbuddy): A HoloLens II Mixed Reality App MVP to teach people how to build Gunpla models remotely
-- 💻 [ISTD Exhibition](https://github.com/lyqht/istd-1d-exhibition-2020): A simple website to showcase hundreds of real projects across 2 courses of Singapore University of Technology and Design.
-- 🤍 [Reminiscene](https://github.com/lyqht/Reminiscence): A simple website to showcase events happening in a school event for White Day.
+- 💻 [ISTD Exhibition](https://github.com/lyqht/istd-1d-exhibition-2020): A static website to showcase hundreds of real projects across 2 courses of Singapore University of Technology and Design.
+- 🤍 [Reminiscene](https://github.com/lyqht/Reminiscence): A static website to showcase events happening in a school event for White Day.
 
 ### Connect with me 💬
 
