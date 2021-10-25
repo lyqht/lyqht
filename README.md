@@ -7,10 +7,12 @@
 <a href="https://community.codenewbie.org/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codenewbie.svg" alt="lyqht" height="30" width="40" /></a>
 </p>
 
+---
+
 ### Hello there 👋
 
-- 🇸🇬 I'm Estee, a software developer from **Singapore** (UTC+8).
-- 🔭 I’m currently contributing to open-source projects in **Hacktoberfest**.
+- 💻 I'm Estee, a software developer from Singapore (UTC+8).
+- 🔭 I’m currently contributing to open-source projects in Hacktoberfest.
 - 🌱 I am learning how to be a better Backend Developer and thinker at [Thoughtworks](https://www.thoughtworks.com/).
 - 🧡 I enjoy talking about UI, UX and Frontend Development.
 - ✍️ I have a [**technical blog**](https://esteetey.dev/) on Web Development & Developer Growth.
@@ -66,7 +68,10 @@
 
 <!-- <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>  -->
 
-### Latest Articles 🔖
+### Latest Articles 
+
+[![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=15%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev)
+![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)
 
 <!-- BLOGPOST:START -->
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
