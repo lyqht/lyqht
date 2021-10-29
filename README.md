@@ -74,11 +74,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)
 
 <!-- BLOGPOST:START -->
+- [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
 - [The Open Source & Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
 - [Migrating a small non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
 - [Developer insights: Why you should conduct user interviews](https://esteetey.dev/developer-insights-why-you-should-conduct-user-interviews)
-- [3 Easy Steps to work on your next side project more effectively](https://esteetey.dev/3-easy-steps-to-work-on-your-next-side-project-more-effectively)
 <!-- BLOGPOST:END -->
 
 ### Projects
