@@ -81,7 +81,7 @@
 - [Developer insights: Why you should conduct user interviews](https://esteetey.dev/developer-insights-why-you-should-conduct-user-interviews)
 <!-- BLOGPOST:END -->
 
-### Projects
+### Fun Projects
 
 - 🔫 [Recoil](https://github.com/lyqht/Recoil): A downloadable 2D Platformer Game where Pingu the penguin takes up arms to save his eggy cousin Benedict from the Navy Seal.
 - 🤖 [BuilderBuddy](https://github.com/lyqht/builderbuddy): A HoloLens II Mixed Reality App MVP to teach people how to build Gunpla models remotely
