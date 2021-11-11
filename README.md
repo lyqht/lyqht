@@ -71,7 +71,7 @@
 ### Latest Articles 
 
 [![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=15%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev)
-![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)](https://twitter.com/intent/follow?screen_name=estee_tey)
 
 <!-- BLOGPOST:START -->
 - [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
