@@ -28,7 +28,7 @@
 - [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
 - [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
-- [Migrating a small non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
+- [Simple tutorial to migrate a non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
 <!-- BLOGPOST:END -->
 
 ### Languages & Tools 🛠
