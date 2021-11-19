@@ -11,11 +11,24 @@
 
 ### Hello there 👋
 
-- 💻 I'm Estee, a software developer from Singapore (UTC+8).
-- 🔭 I’m currently contributing to open-source projects in Hacktoberfest.
-- 🌱 I am learning how to be a better Backend Developer and thinker at [Thoughtworks](https://www.thoughtworks.com/).
-- 🧡 I enjoy talking about UI, UX and Frontend Development.
-- ✍️ I have a [**technical blog**](https://esteetey.dev/) on Web Development & Developer Growth.
+- 💻 I'm Estee, a graduate Software Developer from Singapore (UTC+8).
+- ⛵ I'm a [Thoughtworker](https://www.thoughtworks.com/) who has worked on several full-stack client projects.
+- ✍ I write articles about UI, UX, Open Source and Web Development.
+- 🎤 I have given 2 internal L&L sessions about Frontend Development.
+- 🧡 I am open to opportunities to learn, write articles and speak in public about anything technical.
+
+### Latest Articles 
+
+[![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=16%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)](https://twitter.com/intent/follow?screen_name=estee_tey)
+
+<!-- BLOGPOST:START -->
+- [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://esteetey.dev/introduction-to-svg)
+- [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
+- [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
+- [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
+- [Migrating a small non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
+<!-- BLOGPOST:END -->
 
 ### Languages & Tools 🛠
 
@@ -68,18 +81,6 @@
 
 <!-- <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>  -->
 
-### Latest Articles 
-
-[![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=16%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)](https://twitter.com/intent/follow?screen_name=estee_tey)
-
-<!-- BLOGPOST:START -->
-- [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://esteetey.dev/introduction-to-svg)
-- [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
-- [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
-- [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
-- [Migrating a small non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
-<!-- BLOGPOST:END -->
 
 ### Fun Projects
 
