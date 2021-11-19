@@ -1,10 +1,11 @@
 ![Hi there! I'm Estee Tey, a Software Developer & Technical Blogger!](cover.png)
 
 <p align="left">
-<a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/estee-tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estee-tey" height="30" width="40" /></a>
-<a href="https://dev.to/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" alt="lyqht" height="30" width="40" /></a>
-<a href="https://community.codenewbie.org/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codenewbie.svg" alt="lyqht" height="30" width="40" /></a>
+  <a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/estee-tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estee-tey" height="30" width="40" /></a>
+  <a href="https://community.codenewbie.org/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codenewbie.svg" alt="lyqht" height="30" width="40" /></a>
+  <a href="https://dev.to/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" alt="lyqht" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" alt="lyqht" height="30" width="40" /></a>
 </p>
 
 ---
