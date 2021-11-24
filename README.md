@@ -1,15 +1,5 @@
 ![Hi there! I'm Estee Tey, a Software Developer & Technical Blogger!](cover.png)
 
-<p align="left">
-  <a href="https://twitter.com/estee_tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estee_tey" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/estee-tey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estee-tey" height="30" width="40" /></a>
-  <a href="https://community.codenewbie.org/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codenewbie.svg" alt="lyqht" height="30" width="40" /></a>
-  <a href="https://dev.to/lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" alt="lyqht" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@lyqht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" alt="lyqht" height="30" width="40" /></a>
-</p>
-
----
-
 ### Hello there 👋
 
 - 💻 I'm Estee, a graduate Software Developer from Singapore (UTC+8).
@@ -30,6 +20,16 @@
 - [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
 - [Simple tutorial to migrate a non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
 <!-- BLOGPOST:END -->
+
+### Featured Badges
+
+<div style='display: flex; flex-direction: row;'>
+    <img width='100' src="https://community.codenewbie.org/images/aAYbVhUY8IJAhxXuBHpP2F1eWX0z5NvIMAl8kIN8J1A/w:375/q:80/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYmFkZ2Uv/YmFkZ2VfaW1hZ2Uv/MzEvc2VwdC5wbmc" />
+    <img width='100' src="https://esteetey.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1636694066746%2FggOY-24iN.png%3Fauto%3Dcompress&w=640&q=75" />
+  <img width='100' src="https://raw.githubusercontent.com/sourcegraph/sourcegraph/main/hacktoberfest/21_1027-SG-Hacktoberfest-Badge-Cream.svg" />
+  <img width='100' src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" />
+</div>
+</div>
 
 ### Languages & Tools 🛠
 
@@ -83,9 +83,6 @@
 <!-- <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>  -->
 
 
-### Fun Projects
 
-- 🔫 [Recoil](https://github.com/lyqht/Recoil): A downloadable 2D Platformer Game where Pingu the penguin takes up arms to save his eggy cousin Benedict from the Navy Seal.
-- 🤖 [BuilderBuddy](https://github.com/lyqht/builderbuddy): A HoloLens II Mixed Reality App MVP to teach people how to build Gunpla models remotely
-- 💻 [ISTD Exhibition](https://github.com/lyqht/istd-1d-exhibition-2020): A static website to showcase hundreds of real projects across 2 courses of Singapore University of Technology and Design.
-- 🤍 [Reminiscene](https://github.com/lyqht/Reminiscence): A static website to showcase events happening in a school event for White Day.
+
+
