@@ -14,11 +14,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)](https://twitter.com/intent/follow?screen_name=estee_tey)
 
 <!-- BLOGPOST:START -->
+- [Make your website stand out with a custom scrollbar 🌟](https://esteetey.dev/make-your-website-stand-out-with-a-custom-scrollbar)
 - [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://esteetey.dev/introduction-to-svg)
 - [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
 - [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
-- [Simple tutorial to migrate a non-CRA React project to Next.js](https://esteetey.dev/migrating-a-simple-non-cra-react-project-to-nextjs)
 <!-- BLOGPOST:END -->
 
 ### Featured Badges
