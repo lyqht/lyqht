@@ -13,7 +13,6 @@ jobs:
           redirect_link: "https://esteetey.dev/"
           tag_post_pre_newline: true
           readme_path: "README.md"
-          comment_tag_name: "ARTICLE_BADGE_HERE"
           badge_style: flat
           badge_label: "technical blog 📝"
           badge_message_suffix: "articles"
