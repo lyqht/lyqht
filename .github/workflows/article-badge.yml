@@ -1,5 +1,7 @@
 name: Article Counter Badge Workflow
 on:
+  schedule:
+    - cron: '*/60 * * * *'
   workflow_dispatch:
 
 jobs:
