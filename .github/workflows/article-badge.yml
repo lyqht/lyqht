@@ -1,0 +1,20 @@
+name: Article Counter Badge Workflow
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lyqht/article-count-workflow@main
+        with:
+          feed_list: "https://esteetey.dev/rss.xml"
+          redirect_link: "https://esteetey.dev/"
+          tag_post_pre_newline: true
+          readme_path: "README.md"
+          comment_tag_name: "ARTICLE_BADGE_HERE"
+          badge_style: flat
+          badge_label: "technical blog 📝"
+          badge_message_suffix: "articles"
+          badge_message_bg_color: "#abcbca"
