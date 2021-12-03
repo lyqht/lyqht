@@ -9,9 +9,7 @@
 - 🧡 I am open to opportunities to learn, write articles and speak in public about anything technical.
 
 ### Latest Articles 
-
-[![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=16%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/estee_tey?style=social)](https://twitter.com/intent/follow?screen_name=estee_tey)
+<!-- ARTICLE_BADGE_HERE:START --> [![Website](https://img.shields.io/website?label=technical%20blog📝&up_color=%23abcbca&up_message=16%20articles&url=https%3A%2F%2Festeetey.dev)](https://esteetey.dev) <!-- ARTICLE_BADGE_HERE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
 - [Make your website stand out with a custom scrollbar 🌟](https://esteetey.dev/make-your-website-stand-out-with-a-custom-scrollbar)
