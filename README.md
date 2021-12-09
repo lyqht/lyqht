@@ -5,7 +5,6 @@
 - 💻 I'm Estee, a graduate Software Developer from Singapore (UTC+8).
 - ⛵ I'm a [Thoughtworker](https://www.thoughtworks.com/) who has worked on several full-stack client projects.
 - ✍ I write articles about UI, UX, Open Source and Web Development.
-- 🎤 I have given 2 internal L&L sessions about Frontend Development.
 - 🧡 I am open to opportunities to learn, write articles and speak in public about anything technical.
 
 ### Latest Articles 
