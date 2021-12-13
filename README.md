@@ -8,7 +8,7 @@
 - 🧡 I am open to opportunities to learn, write articles and speak in public about anything technical.
 
 ### Latest Articles 
-<!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=18 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
+<!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=19 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
 - [Enhance your dev detective powers with Sourcegraph 🔍](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
