@@ -11,11 +11,11 @@
 <!-- ARTICLE_BADGE:START --><a href="https://esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=18 articles&url=https://esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
-- [Enhance your dev detective powers with Sourcegraph 🔍](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
 - [Make your website stand out with a custom scrollbar 🌟](https://esteetey.dev/make-your-website-stand-out-with-a-custom-scrollbar)
 - [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://esteetey.dev/introduction-to-svg)
 - [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
 - [Get the best out of Hacktoberfest as a contributor](https://esteetey.dev/hacktoberfest-newbie-contributor-guide)
+- [The Open Source &amp; Hacktoberfest Anthology🌻🔖](https://esteetey.dev/the-open-source-and-hacktoberfest-anthology)
 <!-- BLOGPOST:END -->
 
 ### Featured Badges
