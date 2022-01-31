@@ -12,7 +12,7 @@ jobs:
       - uses: lyqht/article-badge-counter-workflow@main
         with:
           feed_list: "https://blog.esteetey.dev/rss.xml"
-          redirect_link: "https://esteetey.dev/"
+          redirect_link: "https://blog.esteetey.dev"
           tag_post_pre_newline: true
           readme_path: "README.md"
           badge_style: flat
