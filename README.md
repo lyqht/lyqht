@@ -11,11 +11,11 @@
 <!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=20 articles&url=https://blog.esteetey.dev&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
-- [Introduction to Enterprise Backend Development: Service Design Considerations](https://esteetey.dev/introduction-to-enterprise-backend-development-service-design-considerations)
-- [Be a dev detective with Sourcegraph 🔍](https://esteetey.dev/be-a-dev-detective-with-sourcegraph)
-- [Make your website stand out with a custom scrollbar 🌟](https://esteetey.dev/make-your-website-stand-out-with-a-custom-scrollbar)
-- [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://esteetey.dev/introduction-to-svg)
-- [My second attempt at Hacktoberfest: 2021 Edition](https://esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
+- [Introduction to Enterprise Backend Development: Service Design Considerations](https://blog.esteetey.dev/introduction-to-enterprise-backend-development-service-design-considerations)
+- [Be a dev detective with Sourcegraph 🔍](https://blog.esteetey.dev/be-a-dev-detective-with-sourcegraph)
+- [Make your website stand out with a custom scrollbar 🌟](https://blog.esteetey.dev/make-your-website-stand-out-with-a-custom-scrollbar)
+- [Introduction to Scalable Vector Graphics &lpar;SVG&rpar;](https://blog.esteetey.dev/introduction-to-svg)
+- [My second attempt at Hacktoberfest: 2021 Edition](https://blog.esteetey.dev/my-second-attempt-at-hacktoberfest-2021-edition)
 <!-- BLOGPOST:END -->
 
 ### Featured Badges
