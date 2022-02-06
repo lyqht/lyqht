@@ -8,7 +8,7 @@
 - 🧡 I am open to opportunities to learn, write and speak in public about anything technical.
 
 ### Latest Articles 
-<!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=20 articles&url=https://blog.esteetey.dev&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
+<!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=21 articles&url=https://blog.esteetey.dev&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
 - [Introduction to Enterprise Backend Development: Service Design Considerations](https://blog.esteetey.dev/introduction-to-enterprise-backend-development-service-design-considerations)
