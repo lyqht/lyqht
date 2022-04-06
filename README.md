@@ -11,11 +11,11 @@
 <!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=25 articles&url=https://blog.esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
+- [How to create and test a GitHub Action that generates types from Supabase database](https://blog.esteetey.dev/how-to-create-and-test-a-github-action-that-generates-types-from-supabase-database)
 - [A Strange Moment.js — 3 Gotchas for Working &amp; Testing with Datetimes](https://blog.esteetey.dev/a-strange-momentjs-3-gotchas-for-working-and-testing-with-datetimes)
 - [From Fetch to Axios — A better way to call APIs](https://blog.esteetey.dev/fetch-to-axios)
 - [Sign up users easily with SuperTokens: Email Password Authentication](https://blog.esteetey.dev/sign-up-users-with-supertokens)
 - [How to create a CSS Playground for styling Pseudo-elements with Vanilla JavaScript](https://blog.esteetey.dev/how-to-create-a-css-playground-for-styling-pseudo-elements-with-vanilla-javascript)
-- [Introduction to Enterprise Backend Development: Service Design Considerations](https://blog.esteetey.dev/introduction-to-enterprise-backend-development-service-design-considerations)
 <!-- BLOGPOST:END -->
 
 ### Featured Badges
