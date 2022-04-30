@@ -18,16 +18,6 @@
 - [How to create a CSS Playground for styling Pseudo-elements with Vanilla JavaScript](https://blog.esteetey.dev/how-to-create-a-css-playground-for-styling-pseudo-elements-with-vanilla-javascript)
 <!-- BLOGPOST:END -->
 
-### Featured Badges
-
-<div style='display: flex; flex-direction: row;'>
-    <img width='100' src="https://community.codenewbie.org/images/aAYbVhUY8IJAhxXuBHpP2F1eWX0z5NvIMAl8kIN8J1A/w:375/q:80/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYmFkZ2Uv/YmFkZ2VfaW1hZ2Uv/MzEvc2VwdC5wbmc" />
-    <img width='100' src="https://esteetey.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1636694066746%2FggOY-24iN.png%3Fauto%3Dcompress&w=640&q=75" />
-  <img width='100' src="https://raw.githubusercontent.com/sourcegraph/sourcegraph/main/hacktoberfest/21_1027-SG-Hacktoberfest-Badge-Cream.svg" />
-  <img width='100' src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" />
-</div>
-</div>
-
 ### Languages & Tools 🛠
 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
