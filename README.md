@@ -5,7 +5,8 @@
 - 💻 I'm Estee, a graduate Software Developer from Singapore (UTC+8).
 - ⛵ I'm a [Thoughtworker](https://www.thoughtworks.com/) who has worked on several full-stack client projects.
 - ✍ I write articles about UI, UX, Open Source and App Development (Web/Mobile).
-- 🧡 I am open to opportunities to learn, write and speak in public about anything technical.
+- 🌱 I'll be at [CityJS Conference 2022 SG](https://singapore.cityjsconf.org/speaker/6I8t2MoYGJ915dtK7jXglY) on 29 July 2022 to talk about building my [open source project Billy](https://github.com/lyqht/Billy) with [Supabase](https://github.com/supabase).
+- 🧡 I am open to opportunities to [learn, write and speak in public about anything technical](https://polywork.esteetey.dev/). 
 
 ### Latest Articles 
 <!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=27 articles&url=https://blog.esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
