@@ -3,7 +3,6 @@
 ### Hello there 👋
 
 - 💻 I'm Estee, a Software Developer from Singapore (UTC+8).
-- ⛵ I'm a [Thoughtworker](https://www.thoughtworks.com/) who has worked on several full-stack client projects.
 - ✍ I write articles about UI, UX, Open Source and App Development (Web/Mobile).
 - 🧡 I am open to opportunities to [learn, write and speak in public about anything technical](https://polywork.esteetey.dev/).
 
