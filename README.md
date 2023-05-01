@@ -10,11 +10,11 @@
 <!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=29 articles&url=https://blog.esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
 
 <!-- BLOGPOST:START -->
+- [What it takes to scroll well](https://blog.esteetey.dev/what-it-takes-to-scroll-well)
 - [My Hacktoberfest Experience For The Third Time: 2022 Edition](https://blog.esteetey.dev/hacktoberfest-2022-edition)
 - [Swept along by life to be a software developer](https://blog.esteetey.dev/swept-along-by-life-to-be-a-software-developer)
 - [A Quick Guide To Building Good React Native Mobile Apps](https://blog.esteetey.dev/a-quick-guide-to-building-good-react-native-mobile-apps)
 - [Adding Custom Assets In React Native — made easy!](https://blog.esteetey.dev/adding-custom-assets-in-react-native-made-easy)
-- [How to create and test a GitHub Action that generates Supabase database types](https://blog.esteetey.dev/how-to-create-and-test-a-github-action-that-generates-types-from-supabase-database)
 <!-- BLOGPOST:END -->
 
 ### Languages & Tools 🛠
