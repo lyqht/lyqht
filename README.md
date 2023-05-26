@@ -3,6 +3,7 @@
 ### Hello there 👋
 
 - 💻 I'm Estee, a Software Developer from Singapore (UTC+8).
+- 🦚 Currently building accessible and beautiful UI at [Padlet](https://padlet.com/).
 - ✍ I write articles about UI, UX, Open Source and App Development (Web/Mobile).
 - 🧡 I am open to opportunities to [learn, write and speak in public about anything technical](https://polywork.esteetey.dev/).
 
