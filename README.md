@@ -6,7 +6,7 @@
 - 🦚 Currently building accessible and beautiful UI at [Padlet](https://padlet.com/).
 - ✍ I write articles about UI, UX, Open Source and App Development (Web/Mobile).
 - 🧡 I am open to opportunities to [learn, write and speak in public about anything technical](https://polywork.esteetey.dev/).
-- ✨ I can be [sponsored](https://github.com/sponsors/lyqht) to work on feature requests on open source apps - please reach out to me via LinkedIn.
+- ✨ I can be [sponsored](https://github.com/sponsors/lyqht) to work on feature requests on web apps / articles - please reach out to me via LinkedIn.
 
 ### Latest Articles 
 <!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=20 articles&url=https://blog.esteetey.dev/&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END --> <a href="https://twitter.com/intent/follow?screen_name=estee_tey"><img src="https://img.shields.io/twitter/follow/estee_tey?style=social"/></a>
