@@ -8,8 +8,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
           comment_tag_name: "BLOGPOST"
           commit_message: "Updated readme with the latest blogposts"
