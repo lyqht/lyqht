@@ -10,7 +10,7 @@
 
 ### Latest Articles
 
-<!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical%20blog%20📝&up_message=20%20articles&url=https://blog.esteetey.dev/&style=flat&up_color=%23abcbca"></a><!-- ARTICLE_BADGE:END -->
+<!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Technical Blog" src="https://img.shields.io/badge/technical%20blog%20📝-20%20articles-abcbca?style=flat"></a><!-- ARTICLE_BADGE:END -->
 
 <!-- BLOGPOST:START -->
 
