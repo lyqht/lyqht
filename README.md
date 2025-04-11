@@ -74,7 +74,6 @@
         <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
         <a href="https://orbstack.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/125163402?s=200&v=4" alt="orbstack" width="40" height="40"/></a>
         <a href="https://vercel.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="vercel" width="40" height="40"/></a>
-        <a href="https://cloud.google.com/run" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-icon.svg" alt="google cloud run" width="40" height="40"/></a>
       </p>
     </td>
     <td align="center">
