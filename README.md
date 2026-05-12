@@ -1,4 +1,4 @@
-![Hi there! I'm Estee Tey, a Software Developer & Technical Blogger!](cover.png)
+[![Hi there! I'm Estee Tey, a Software Developer & Technical Blogger!](cover.png)](https://www.esteetey.dev/)
 
 ### Hello there 👋
 
