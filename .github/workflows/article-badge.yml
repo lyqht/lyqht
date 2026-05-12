@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: lyqht/article-badge-counter-workflow@main
         with:
-          feed_list: "https://blog.esteetey.dev/rss.xml"
-          redirect_link: "https://blog.esteetey.dev/"
+          feed_list: "https://www.esteetey.dev/rss.xml"
+          redirect_link: "https://www.esteetey.dev/blog"
           tag_post_pre_newline: true
           readme_path: "README.md"
           badge_style: flat
