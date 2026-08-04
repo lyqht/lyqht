@@ -10,8 +10,6 @@
 
 ### Latest Articles
 
-<!-- ARTICLE_BADGE:START --><a href="https://www.esteetey.dev/blog" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/website?label=technical blog 📝&up_message=31 articles&url=https://www.esteetey.dev/blog&style=flat&up_color=%23abcbca&"></img></a><!-- ARTICLE_BADGE:END -->
-
 <!-- BLOGPOST:START -->
 - [Achieving WCAG A Compliance for Boards](https://www.esteetey.dev/blog/achieving-wcag-a-compliance-for-boards/)
 - [What it takes to scroll well](https://www.esteetey.dev/blog/what-it-takes-to-scroll-well/)
